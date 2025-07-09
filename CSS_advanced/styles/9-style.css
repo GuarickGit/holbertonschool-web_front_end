@@ -13,7 +13,7 @@ body {
 
 a {
 	color: var(--text-color);
-	font-style: italic;
+	text-decoration: none;
 }
 
 .visually-hidden {
