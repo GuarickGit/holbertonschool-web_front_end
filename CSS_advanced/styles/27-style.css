@@ -274,12 +274,10 @@ ul.row {
 
 .section-hero {
 	background-size: 90rem auto;
-	width: 90rem;
-	height: auto;
 }
 
 .section-hero .section-title {
-	padding-bottom: 5rem;
+	margin: 5rem;
 }
 
 .section-hero .section-inner {
